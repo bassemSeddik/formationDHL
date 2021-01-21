@@ -1,0 +1,24 @@
+/*On commence par définir des styles CSS qu'on lie a des sélecteurs de
+ *class. On n'aura plus qu'à utiliser les attributs class correspondants
+ *en HTML ensuite pour appliquer les styles liés à nos éléments*/
+.gros{
+    font-size: 24px;
+}
+/*Texte en italique*/
+.italique{
+    font-style: italic;
+}
+/*Crée un trait de soulignement sous le texte*/
+.souligne{
+    text-decoration: underline;
+}
+.orange{
+    color: orange;
+}
+.bleu{
+    color: blue;
+}
+
+.vert{
+    color: green;
+}

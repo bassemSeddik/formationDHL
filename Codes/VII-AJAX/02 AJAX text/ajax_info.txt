@@ -1,0 +1,4 @@
+AJAX (Asynchronous JavaScript and XML) est une technique pour  créer des pages web rapides et dynamiques. Ses sevices: 
+-> Lire les données d’un serveur Web - après que la page a chargé
+-> Mettre à jour une page Web sans recharger la page
+-> Envoyer/recevoir des données à un serveur Web - en arrière-plan
